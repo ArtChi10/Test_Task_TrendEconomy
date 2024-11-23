@@ -1,0 +1,416 @@
+cca2,cca3,cioc,name.common,name.official,capital,region,subregion,language,area,population
+GS,SGS,,South Georgia,South Georgia and the South Sandwich Islands,King Edward Point,Antarctic,,English,3903.0,30
+GD,GRD,GRN,Grenada,Grenada,St. George's,Americas,Caribbean,English,344.0,112519
+CH,CHE,SUI,Switzerland,Swiss Confederation,Bern,Europe,Western Europe,French,41284.0,8654622
+CH,CHE,SUI,Switzerland,Swiss Confederation,Bern,Europe,Western Europe,Swiss German,41284.0,8654622
+CH,CHE,SUI,Switzerland,Swiss Confederation,Bern,Europe,Western Europe,Italian,41284.0,8654622
+CH,CHE,SUI,Switzerland,Swiss Confederation,Bern,Europe,Western Europe,Romansh,41284.0,8654622
+SL,SLE,SLE,Sierra Leone,Republic of Sierra Leone,Freetown,Africa,Western Africa,English,71740.0,7976985
+HU,HUN,HUN,Hungary,Hungary,Budapest,Europe,Central Europe,Hungarian,93028.0,9749763
+TW,TWN,TPE,Taiwan,Republic of China (Taiwan),Taipei,Asia,Eastern Asia,Chinese,36193.0,23503349
+WF,WLF,,Wallis and Futuna,Territory of the Wallis and Futuna Islands,Mata-Utu,Oceania,Polynesia,French,142.0,11750
+BB,BRB,BAR,Barbados,Barbados,Bridgetown,Americas,Caribbean,English,430.0,287371
+PN,PCN,,Pitcairn Islands,Pitcairn Group of Islands,Adamstown,Oceania,Polynesia,English,47.0,56
+CI,CIV,CIV,Ivory Coast,Republic of Côte d'Ivoire,Yamoussoukro,Africa,Western Africa,French,322463.0,26378275
+TN,TUN,TUN,Tunisia,Tunisian Republic,Tunis,Africa,Northern Africa,Arabic,163610.0,11818618
+IT,ITA,ITA,Italy,Italian Republic,Rome,Europe,Southern Europe,Italian,301336.0,59554023
+BJ,BEN,BEN,Benin,Republic of Benin,Porto-Novo,Africa,Western Africa,French,112622.0,12123198
+ID,IDN,INA,Indonesia,Republic of Indonesia,Jakarta,Asia,South-Eastern Asia,Indonesian,1904569.0,273523621
+CV,CPV,CPV,Cape Verde,Republic of Cabo Verde,Praia,Africa,Western Africa,Portuguese,4033.0,555988
+KN,KNA,SKN,Saint Kitts and Nevis,Federation of Saint Christopher and Nevis,Basseterre,Americas,Caribbean,English,261.0,53192
+LA,LAO,LAO,Laos,Lao People's Democratic Republic,Vientiane,Asia,South-Eastern Asia,Lao,236800.0,7275556
+BQ,BES,,Caribbean Netherlands,"Bonaire, Sint Eustatius and Saba",Kralendijk,Americas,Caribbean,English,328.0,25987
+BQ,BES,,Caribbean Netherlands,"Bonaire, Sint Eustatius and Saba",Kralendijk,Americas,Caribbean,Dutch,328.0,25987
+BQ,BES,,Caribbean Netherlands,"Bonaire, Sint Eustatius and Saba",Kralendijk,Americas,Caribbean,Papiamento,328.0,25987
+UG,UGA,UGA,Uganda,Republic of Uganda,Kampala,Africa,Eastern Africa,English,241550.0,45741000
+UG,UGA,UGA,Uganda,Republic of Uganda,Kampala,Africa,Eastern Africa,Swahili,241550.0,45741000
+AD,AND,AND,Andorra,Principality of Andorra,Andorra la Vella,Europe,Southern Europe,Catalan,468.0,77265
+BI,BDI,BDI,Burundi,Republic of Burundi,Gitega,Africa,Eastern Africa,French,27834.0,11890781
+BI,BDI,BDI,Burundi,Republic of Burundi,Gitega,Africa,Eastern Africa,Kirundi,27834.0,11890781
+ZA,ZAF,RSA,South Africa,Republic of South Africa,"Pretoria, Bloemfontein, Cape Town",Africa,Southern Africa,Afrikaans,1221037.0,59308690
+ZA,ZAF,RSA,South Africa,Republic of South Africa,"Pretoria, Bloemfontein, Cape Town",Africa,Southern Africa,English,1221037.0,59308690
+ZA,ZAF,RSA,South Africa,Republic of South Africa,"Pretoria, Bloemfontein, Cape Town",Africa,Southern Africa,Southern Ndebele,1221037.0,59308690
+ZA,ZAF,RSA,South Africa,Republic of South Africa,"Pretoria, Bloemfontein, Cape Town",Africa,Southern Africa,Northern Sotho,1221037.0,59308690
+ZA,ZAF,RSA,South Africa,Republic of South Africa,"Pretoria, Bloemfontein, Cape Town",Africa,Southern Africa,Southern Sotho,1221037.0,59308690
+ZA,ZAF,RSA,South Africa,Republic of South Africa,"Pretoria, Bloemfontein, Cape Town",Africa,Southern Africa,Swazi,1221037.0,59308690
+ZA,ZAF,RSA,South Africa,Republic of South Africa,"Pretoria, Bloemfontein, Cape Town",Africa,Southern Africa,Tswana,1221037.0,59308690
+ZA,ZAF,RSA,South Africa,Republic of South Africa,"Pretoria, Bloemfontein, Cape Town",Africa,Southern Africa,Tsonga,1221037.0,59308690
+ZA,ZAF,RSA,South Africa,Republic of South Africa,"Pretoria, Bloemfontein, Cape Town",Africa,Southern Africa,Venda,1221037.0,59308690
+ZA,ZAF,RSA,South Africa,Republic of South Africa,"Pretoria, Bloemfontein, Cape Town",Africa,Southern Africa,Xhosa,1221037.0,59308690
+ZA,ZAF,RSA,South Africa,Republic of South Africa,"Pretoria, Bloemfontein, Cape Town",Africa,Southern Africa,Zulu,1221037.0,59308690
+FR,FRA,FRA,France,French Republic,Paris,Europe,Western Europe,French,551695.0,67391582
+LY,LBY,LBA,Libya,State of Libya,Tripoli,Africa,Northern Africa,Arabic,1759540.0,6871287
+MX,MEX,MEX,Mexico,United Mexican States,Mexico City,Americas,North America,Spanish,1964375.0,128932753
+GA,GAB,GAB,Gabon,Gabonese Republic,Libreville,Africa,Middle Africa,French,267668.0,2225728
+MP,MNP,,Northern Mariana Islands,Commonwealth of the Northern Mariana Islands,Saipan,Oceania,Micronesia,Carolinian,464.0,57557
+MP,MNP,,Northern Mariana Islands,Commonwealth of the Northern Mariana Islands,Saipan,Oceania,Micronesia,Chamorro,464.0,57557
+MP,MNP,,Northern Mariana Islands,Commonwealth of the Northern Mariana Islands,Saipan,Oceania,Micronesia,English,464.0,57557
+MK,MKD,MKD,North Macedonia,Republic of North Macedonia,Skopje,Europe,Southeast Europe,Macedonian,25713.0,2077132
+CN,CHN,CHN,China,People's Republic of China,Beijing,Asia,Eastern Asia,Chinese,9706961.0,1402112000
+YE,YEM,YEM,Yemen,Republic of Yemen,Sana'a,Asia,Western Asia,Arabic,527968.0,29825968
+BL,BLM,,Saint Barthélemy,Collectivity of Saint Barthélemy,Gustavia,Americas,Caribbean,French,21.0,4255
+GG,GGY,,Guernsey,Bailiwick of Guernsey,St. Peter Port,Europe,Northern Europe,English,78.0,62999
+GG,GGY,,Guernsey,Bailiwick of Guernsey,St. Peter Port,Europe,Northern Europe,French,78.0,62999
+GG,GGY,,Guernsey,Bailiwick of Guernsey,St. Peter Port,Europe,Northern Europe,Guernésiais,78.0,62999
+SB,SLB,SOL,Solomon Islands,Solomon Islands,Honiara,Oceania,Melanesia,English,28896.0,686878
+SJ,SJM,,Svalbard and Jan Mayen,Svalbard og Jan Mayen,Longyearbyen,Europe,Northern Europe,Norwegian,61399.0,2562
+FO,FRO,,Faroe Islands,Faroe Islands,Tórshavn,Europe,Northern Europe,Danish,1393.0,48865
+FO,FRO,,Faroe Islands,Faroe Islands,Tórshavn,Europe,Northern Europe,Faroese,1393.0,48865
+UZ,UZB,UZB,Uzbekistan,Republic of Uzbekistan,Tashkent,Asia,Central Asia,Russian,447400.0,34232050
+UZ,UZB,UZB,Uzbekistan,Republic of Uzbekistan,Tashkent,Asia,Central Asia,Uzbek,447400.0,34232050
+EG,EGY,EGY,Egypt,Arab Republic of Egypt,Cairo,Africa,Northern Africa,Arabic,1002450.0,102334403
+SN,SEN,SEN,Senegal,Republic of Senegal,Dakar,Africa,Western Africa,French,196722.0,16743930
+LK,LKA,SRI,Sri Lanka,Democratic Socialist Republic of Sri Lanka,Sri Jayawardenepura Kotte,Asia,Southern Asia,Sinhala,65610.0,21919000
+LK,LKA,SRI,Sri Lanka,Democratic Socialist Republic of Sri Lanka,Sri Jayawardenepura Kotte,Asia,Southern Asia,Tamil,65610.0,21919000
+PS,PSE,PLE,Palestine,State of Palestine,"Ramallah, Jerusalem",Asia,Western Asia,Arabic,6220.0,4803269
+BD,BGD,BAN,Bangladesh,People's Republic of Bangladesh,Dhaka,Asia,Southern Asia,Bengali,147570.0,164689383
+PE,PER,PER,Peru,Republic of Peru,Lima,Americas,South America,Aymara,1285216.0,32971846
+PE,PER,PER,Peru,Republic of Peru,Lima,Americas,South America,Quechua,1285216.0,32971846
+PE,PER,PER,Peru,Republic of Peru,Lima,Americas,South America,Spanish,1285216.0,32971846
+SG,SGP,SGP,Singapore,Republic of Singapore,Singapore,Asia,South-Eastern Asia,English,710.0,5685807
+SG,SGP,SGP,Singapore,Republic of Singapore,Singapore,Asia,South-Eastern Asia,Chinese,710.0,5685807
+SG,SGP,SGP,Singapore,Republic of Singapore,Singapore,Asia,South-Eastern Asia,Malay,710.0,5685807
+SG,SGP,SGP,Singapore,Republic of Singapore,Singapore,Asia,South-Eastern Asia,Tamil,710.0,5685807
+TR,TUR,TUR,Turkey,Republic of Turkey,Ankara,Asia,Western Asia,Turkish,783562.0,84339067
+AF,AFG,AFG,Afghanistan,Islamic Republic of Afghanistan,Kabul,Asia,Southern Asia,Dari,652230.0,40218234
+AF,AFG,AFG,Afghanistan,Islamic Republic of Afghanistan,Kabul,Asia,Southern Asia,Pashto,652230.0,40218234
+AF,AFG,AFG,Afghanistan,Islamic Republic of Afghanistan,Kabul,Asia,Southern Asia,Turkmen,652230.0,40218234
+AW,ABW,ARU,Aruba,Aruba,Oranjestad,Americas,Caribbean,Dutch,180.0,106766
+AW,ABW,ARU,Aruba,Aruba,Oranjestad,Americas,Caribbean,Papiamento,180.0,106766
+CK,COK,COK,Cook Islands,Cook Islands,Avarua,Oceania,Polynesia,English,236.0,18100
+CK,COK,COK,Cook Islands,Cook Islands,Avarua,Oceania,Polynesia,Cook Islands Māori,236.0,18100
+GB,GBR,GBR,United Kingdom,United Kingdom of Great Britain and Northern Ireland,London,Europe,Northern Europe,English,242900.0,67215293
+ZM,ZMB,ZAM,Zambia,Republic of Zambia,Lusaka,Africa,Eastern Africa,English,752612.0,18383956
+FI,FIN,FIN,Finland,Republic of Finland,Helsinki,Europe,Northern Europe,Finnish,338424.0,5530719
+FI,FIN,FIN,Finland,Republic of Finland,Helsinki,Europe,Northern Europe,Swedish,338424.0,5530719
+NE,NER,NIG,Niger,Republic of Niger,Niamey,Africa,Western Africa,French,1267000.0,24206636
+CX,CXR,,Christmas Island,Territory of Christmas Island,Flying Fish Cove,Oceania,Australia and New Zealand,English,135.0,2072
+TK,TKL,,Tokelau,Tokelau,Fakaofo,Oceania,Polynesia,English,12.0,1411
+TK,TKL,,Tokelau,Tokelau,Fakaofo,Oceania,Polynesia,Samoan,12.0,1411
+TK,TKL,,Tokelau,Tokelau,Fakaofo,Oceania,Polynesia,Tokelauan,12.0,1411
+GW,GNB,GBS,Guinea-Bissau,Republic of Guinea-Bissau,Bissau,Africa,Western Africa,Portuguese,36125.0,1967998
+GW,GNB,GBS,Guinea-Bissau,Republic of Guinea-Bissau,Bissau,Africa,Western Africa,Upper Guinea Creole,36125.0,1967998
+AZ,AZE,AZE,Azerbaijan,Republic of Azerbaijan,Baku,Asia,Western Asia,Azerbaijani,86600.0,10110116
+RE,REU,,Réunion,Réunion Island,Saint-Denis,Africa,Eastern Africa,French,2511.0,840974
+DJ,DJI,DJI,Djibouti,Republic of Djibouti,Djibouti,Africa,Eastern Africa,Arabic,23200.0,988002
+DJ,DJI,DJI,Djibouti,Republic of Djibouti,Djibouti,Africa,Eastern Africa,French,23200.0,988002
+KP,PRK,PRK,North Korea,Democratic People's Republic of Korea,Pyongyang,Asia,Eastern Asia,Korean,120538.0,25778815
+MU,MUS,MRI,Mauritius,Republic of Mauritius,Port Louis,Africa,Eastern Africa,English,2040.0,1265740
+MU,MUS,MRI,Mauritius,Republic of Mauritius,Port Louis,Africa,Eastern Africa,French,2040.0,1265740
+MU,MUS,MRI,Mauritius,Republic of Mauritius,Port Louis,Africa,Eastern Africa,Mauritian Creole,2040.0,1265740
+MS,MSR,,Montserrat,Montserrat,Plymouth,Americas,Caribbean,English,102.0,4922
+VI,VIR,ISV,United States Virgin Islands,Virgin Islands of the United States,Charlotte Amalie,Americas,Caribbean,English,347.0,106290
+CO,COL,COL,Colombia,Republic of Colombia,Bogotá,Americas,South America,Spanish,1141748.0,50882884
+GR,GRC,GRE,Greece,Hellenic Republic,Athens,Europe,Southern Europe,Greek,131990.0,10715549
+HR,HRV,CRO,Croatia,Republic of Croatia,Zagreb,Europe,Southeast Europe,Croatian,56594.0,4047200
+MA,MAR,MAR,Morocco,Kingdom of Morocco,Rabat,Africa,Northern Africa,Arabic,446550.0,36910558
+MA,MAR,MAR,Morocco,Kingdom of Morocco,Rabat,Africa,Northern Africa,Berber,446550.0,36910558
+DZ,DZA,ALG,Algeria,People's Democratic Republic of Algeria,Algiers,Africa,Northern Africa,Arabic,2381741.0,44700000
+AQ,ATA,,Antarctica,Antarctica,,Antarctic,,,14000000.0,1000
+NL,NLD,NED,Netherlands,Kingdom of the Netherlands,Amsterdam,Europe,Western Europe,Dutch,41850.0,16655799
+SD,SDN,SUD,Sudan,Republic of the Sudan,Khartoum,Africa,Northern Africa,Arabic,1886068.0,43849269
+SD,SDN,SUD,Sudan,Republic of the Sudan,Khartoum,Africa,Northern Africa,English,1886068.0,43849269
+FJ,FJI,FIJ,Fiji,Republic of Fiji,Suva,Oceania,Melanesia,English,18272.0,896444
+FJ,FJI,FIJ,Fiji,Republic of Fiji,Suva,Oceania,Melanesia,Fijian,18272.0,896444
+FJ,FJI,FIJ,Fiji,Republic of Fiji,Suva,Oceania,Melanesia,Fiji Hindi,18272.0,896444
+LI,LIE,LIE,Liechtenstein,Principality of Liechtenstein,Vaduz,Europe,Western Europe,German,160.0,38137
+NP,NPL,NEP,Nepal,Federal Democratic Republic of Nepal,Kathmandu,Asia,Southern Asia,Nepali,147181.0,29136808
+PR,PRI,PUR,Puerto Rico,Commonwealth of Puerto Rico,San Juan,Americas,Caribbean,English,8870.0,3194034
+PR,PRI,PUR,Puerto Rico,Commonwealth of Puerto Rico,San Juan,Americas,Caribbean,Spanish,8870.0,3194034
+GE,GEO,GEO,Georgia,Georgia,Tbilisi,Asia,Western Asia,Georgian,69700.0,3714000
+PK,PAK,PAK,Pakistan,Islamic Republic of Pakistan,Islamabad,Asia,Southern Asia,English,881912.0,220892331
+PK,PAK,PAK,Pakistan,Islamic Republic of Pakistan,Islamabad,Asia,Southern Asia,Urdu,881912.0,220892331
+MC,MCO,MON,Monaco,Principality of Monaco,Monaco,Europe,Western Europe,French,2.02,39244
+BW,BWA,BOT,Botswana,Republic of Botswana,Gaborone,Africa,Southern Africa,English,582000.0,2351625
+BW,BWA,BOT,Botswana,Republic of Botswana,Gaborone,Africa,Southern Africa,Tswana,582000.0,2351625
+LB,LBN,LBN,Lebanon,Lebanese Republic,Beirut,Asia,Western Asia,Arabic,10452.0,6825442
+LB,LBN,LBN,Lebanon,Lebanese Republic,Beirut,Asia,Western Asia,French,10452.0,6825442
+PG,PNG,PNG,Papua New Guinea,Independent State of Papua New Guinea,Port Moresby,Oceania,Melanesia,English,462840.0,8947027
+PG,PNG,PNG,Papua New Guinea,Independent State of Papua New Guinea,Port Moresby,Oceania,Melanesia,Hiri Motu,462840.0,8947027
+PG,PNG,PNG,Papua New Guinea,Independent State of Papua New Guinea,Port Moresby,Oceania,Melanesia,Tok Pisin,462840.0,8947027
+YT,MYT,,Mayotte,Department of Mayotte,Mamoudzou,Africa,Eastern Africa,French,374.0,226915
+DO,DOM,DOM,Dominican Republic,Dominican Republic,Santo Domingo,Americas,Caribbean,Spanish,48671.0,10847904
+NF,NFK,,Norfolk Island,Territory of Norfolk Island,Kingston,Oceania,Australia and New Zealand,English,36.0,2302
+NF,NFK,,Norfolk Island,Territory of Norfolk Island,Kingston,Oceania,Australia and New Zealand,Norfuk,36.0,2302
+BV,BVT,,Bouvet Island,Bouvet Island,,Antarctic,,Norwegian,49.0,0
+QA,QAT,QAT,Qatar,State of Qatar,Doha,Asia,Western Asia,Arabic,11586.0,2881060
+MG,MDG,MAD,Madagascar,Republic of Madagascar,Antananarivo,Africa,Eastern Africa,French,587041.0,27691019
+MG,MDG,MAD,Madagascar,Republic of Madagascar,Antananarivo,Africa,Eastern Africa,Malagasy,587041.0,27691019
+IN,IND,IND,India,Republic of India,New Delhi,Asia,Southern Asia,English,3287590.0,1380004385
+IN,IND,IND,India,Republic of India,New Delhi,Asia,Southern Asia,Hindi,3287590.0,1380004385
+IN,IND,IND,India,Republic of India,New Delhi,Asia,Southern Asia,Tamil,3287590.0,1380004385
+SY,SYR,SYR,Syria,Syrian Arab Republic,Damascus,Asia,Western Asia,Arabic,185180.0,17500657
+ME,MNE,MNE,Montenegro,Montenegro,Podgorica,Europe,Southeast Europe,Montenegrin,13812.0,621718
+SZ,SWZ,SWZ,Eswatini,Kingdom of Eswatini,Mbabane,Africa,Southern Africa,English,17364.0,1160164
+SZ,SWZ,SWZ,Eswatini,Kingdom of Eswatini,Mbabane,Africa,Southern Africa,Swazi,17364.0,1160164
+PY,PRY,PAR,Paraguay,Republic of Paraguay,Asunción,Americas,South America,Guaraní,406752.0,7132530
+PY,PRY,PAR,Paraguay,Republic of Paraguay,Asunción,Americas,South America,Spanish,406752.0,7132530
+SV,SLV,ESA,El Salvador,Republic of El Salvador,San Salvador,Americas,Central America,Spanish,21041.0,6486201
+UA,UKR,UKR,Ukraine,Ukraine,Kyiv,Europe,Eastern Europe,Ukrainian,603500.0,44134693
+IM,IMN,,Isle of Man,Isle of Man,Douglas,Europe,Northern Europe,English,572.0,85032
+IM,IMN,,Isle of Man,Isle of Man,Douglas,Europe,Northern Europe,Manx,572.0,85032
+NA,NAM,NAM,Namibia,Republic of Namibia,Windhoek,Africa,Southern Africa,Afrikaans,825615.0,2540916
+NA,NAM,NAM,Namibia,Republic of Namibia,Windhoek,Africa,Southern Africa,German,825615.0,2540916
+NA,NAM,NAM,Namibia,Republic of Namibia,Windhoek,Africa,Southern Africa,English,825615.0,2540916
+NA,NAM,NAM,Namibia,Republic of Namibia,Windhoek,Africa,Southern Africa,Herero,825615.0,2540916
+NA,NAM,NAM,Namibia,Republic of Namibia,Windhoek,Africa,Southern Africa,Khoekhoe,825615.0,2540916
+NA,NAM,NAM,Namibia,Republic of Namibia,Windhoek,Africa,Southern Africa,Kwangali,825615.0,2540916
+NA,NAM,NAM,Namibia,Republic of Namibia,Windhoek,Africa,Southern Africa,Lozi,825615.0,2540916
+NA,NAM,NAM,Namibia,Republic of Namibia,Windhoek,Africa,Southern Africa,Ndonga,825615.0,2540916
+NA,NAM,NAM,Namibia,Republic of Namibia,Windhoek,Africa,Southern Africa,Tswana,825615.0,2540916
+AE,ARE,UAE,United Arab Emirates,United Arab Emirates,Abu Dhabi,Asia,Western Asia,Arabic,83600.0,9890400
+BG,BGR,BUL,Bulgaria,Republic of Bulgaria,Sofia,Europe,Southeast Europe,Bulgarian,110879.0,6927288
+GL,GRL,,Greenland,Greenland,Nuuk,Americas,North America,Greenlandic,2166086.0,56367
+DE,DEU,GER,Germany,Federal Republic of Germany,Berlin,Europe,Western Europe,German,357114.0,83240525
+KH,KHM,CAM,Cambodia,Kingdom of Cambodia,Phnom Penh,Asia,South-Eastern Asia,Khmer,181035.0,16718971
+IQ,IRQ,IRQ,Iraq,Republic of Iraq,Baghdad,Asia,Western Asia,Arabic,438317.0,40222503
+IQ,IRQ,IRQ,Iraq,Republic of Iraq,Baghdad,Asia,Western Asia,Aramaic,438317.0,40222503
+IQ,IRQ,IRQ,Iraq,Republic of Iraq,Baghdad,Asia,Western Asia,Sorani,438317.0,40222503
+TF,ATF,,French Southern and Antarctic Lands,Territory of the French Southern and Antarctic Lands,Port-aux-Français,Antarctic,,French,7747.0,400
+SE,SWE,SWE,Sweden,Kingdom of Sweden,Stockholm,Europe,Northern Europe,Swedish,450295.0,10353442
+CU,CUB,CUB,Cuba,Republic of Cuba,Havana,Americas,Caribbean,Spanish,109884.0,11326616
+KG,KGZ,KGZ,Kyrgyzstan,Kyrgyz Republic,Bishkek,Asia,Central Asia,Kyrgyz,199951.0,6591600
+KG,KGZ,KGZ,Kyrgyzstan,Kyrgyz Republic,Bishkek,Asia,Central Asia,Russian,199951.0,6591600
+RU,RUS,RUS,Russia,Russian Federation,Moscow,Europe,Eastern Europe,Russian,17098242.0,144104080
+MY,MYS,MAS,Malaysia,Malaysia,Kuala Lumpur,Asia,South-Eastern Asia,English,330803.0,32365998
+MY,MYS,MAS,Malaysia,Malaysia,Kuala Lumpur,Asia,South-Eastern Asia,Malay,330803.0,32365998
+ST,STP,STP,São Tomé and Príncipe,Democratic Republic of São Tomé and Príncipe,São Tomé,Africa,Middle Africa,Portuguese,964.0,219161
+CY,CYP,CYP,Cyprus,Republic of Cyprus,Nicosia,Europe,Southern Europe,Greek,9251.0,1207361
+CY,CYP,CYP,Cyprus,Republic of Cyprus,Nicosia,Europe,Southern Europe,Turkish,9251.0,1207361
+CA,CAN,CAN,Canada,Canada,Ottawa,Americas,North America,English,9984670.0,38005238
+CA,CAN,CAN,Canada,Canada,Ottawa,Americas,North America,French,9984670.0,38005238
+MW,MWI,MAW,Malawi,Republic of Malawi,Lilongwe,Africa,Eastern Africa,English,118484.0,19129955
+MW,MWI,MAW,Malawi,Republic of Malawi,Lilongwe,Africa,Eastern Africa,Chewa,118484.0,19129955
+SA,SAU,KSA,Saudi Arabia,Kingdom of Saudi Arabia,Riyadh,Asia,Western Asia,Arabic,2149690.0,34813867
+BA,BIH,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,Sarajevo,Europe,Southeast Europe,Bosnian,51209.0,3280815
+BA,BIH,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,Sarajevo,Europe,Southeast Europe,Croatian,51209.0,3280815
+BA,BIH,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,Sarajevo,Europe,Southeast Europe,Serbian,51209.0,3280815
+ET,ETH,ETH,Ethiopia,Federal Democratic Republic of Ethiopia,Addis Ababa,Africa,Eastern Africa,Amharic,1104300.0,114963583
+ES,ESP,ESP,Spain,Kingdom of Spain,Madrid,Europe,Southern Europe,Spanish,505992.0,47351567
+ES,ESP,ESP,Spain,Kingdom of Spain,Madrid,Europe,Southern Europe,Catalan,505992.0,47351567
+ES,ESP,ESP,Spain,Kingdom of Spain,Madrid,Europe,Southern Europe,Basque,505992.0,47351567
+ES,ESP,ESP,Spain,Kingdom of Spain,Madrid,Europe,Southern Europe,Galician,505992.0,47351567
+SI,SVN,SLO,Slovenia,Republic of Slovenia,Ljubljana,Europe,Central Europe,Slovene,20273.0,2100126
+OM,OMN,OMA,Oman,Sultanate of Oman,Muscat,Asia,Western Asia,Arabic,309500.0,5106622
+PM,SPM,,Saint Pierre and Miquelon,Saint Pierre and Miquelon,Saint-Pierre,Americas,North America,French,242.0,6069
+MO,MAC,,Macau,Macao Special Administrative Region of the People's Republic of China,,Asia,Eastern Asia,Portuguese,30.0,649342
+MO,MAC,,Macau,Macao Special Administrative Region of the People's Republic of China,,Asia,Eastern Asia,Chinese,30.0,649342
+SM,SMR,SMR,San Marino,Republic of San Marino,City of San Marino,Europe,Southern Europe,Italian,61.0,33938
+LS,LSO,LES,Lesotho,Kingdom of Lesotho,Maseru,Africa,Southern Africa,English,30355.0,2142252
+LS,LSO,LES,Lesotho,Kingdom of Lesotho,Maseru,Africa,Southern Africa,Sotho,30355.0,2142252
+MH,MHL,MHL,Marshall Islands,Republic of the Marshall Islands,Majuro,Oceania,Micronesia,English,181.0,59194
+MH,MHL,MHL,Marshall Islands,Republic of the Marshall Islands,Majuro,Oceania,Micronesia,Marshallese,181.0,59194
+SX,SXM,,Sint Maarten,Sint Maarten,Philipsburg,Americas,Caribbean,English,34.0,40812
+SX,SXM,,Sint Maarten,Sint Maarten,Philipsburg,Americas,Caribbean,French,34.0,40812
+SX,SXM,,Sint Maarten,Sint Maarten,Philipsburg,Americas,Caribbean,Dutch,34.0,40812
+IS,ISL,ISL,Iceland,Iceland,Reykjavik,Europe,Northern Europe,Icelandic,103000.0,366425
+LU,LUX,LUX,Luxembourg,Grand Duchy of Luxembourg,Luxembourg,Europe,Western Europe,German,2586.0,632275
+LU,LUX,LUX,Luxembourg,Grand Duchy of Luxembourg,Luxembourg,Europe,Western Europe,French,2586.0,632275
+LU,LUX,LUX,Luxembourg,Grand Duchy of Luxembourg,Luxembourg,Europe,Western Europe,Luxembourgish,2586.0,632275
+AR,ARG,ARG,Argentina,Argentine Republic,Buenos Aires,Americas,South America,Guaraní,2780400.0,45376763
+AR,ARG,ARG,Argentina,Argentine Republic,Buenos Aires,Americas,South America,Spanish,2780400.0,45376763
+TC,TCA,,Turks and Caicos Islands,Turks and Caicos Islands,Cockburn Town,Americas,Caribbean,English,948.0,38718
+NR,NRU,NRU,Nauru,Republic of Nauru,Yaren,Oceania,Micronesia,English,21.0,10834
+NR,NRU,NRU,Nauru,Republic of Nauru,Yaren,Oceania,Micronesia,Nauru,21.0,10834
+CC,CCK,,Cocos (Keeling) Islands,Territory of the Cocos (Keeling) Islands,West Island,Oceania,Australia and New Zealand,English,14.0,544
+EH,ESH,,Western Sahara,Sahrawi Arab Democratic Republic,El Aaiún,Africa,Northern Africa,Berber,266000.0,510713
+EH,ESH,,Western Sahara,Sahrawi Arab Democratic Republic,El Aaiún,Africa,Northern Africa,Hassaniya,266000.0,510713
+EH,ESH,,Western Sahara,Sahrawi Arab Democratic Republic,El Aaiún,Africa,Northern Africa,Spanish,266000.0,510713
+DM,DMA,DMA,Dominica,Commonwealth of Dominica,Roseau,Americas,Caribbean,English,751.0,71991
+CR,CRI,CRC,Costa Rica,Republic of Costa Rica,San José,Americas,Central America,Spanish,51100.0,5094114
+AU,AUS,AUS,Australia,Commonwealth of Australia,Canberra,Oceania,Australia and New Zealand,English,7692024.0,25687041
+TH,THA,THA,Thailand,Kingdom of Thailand,Bangkok,Asia,South-Eastern Asia,Thai,513120.0,69799978
+HT,HTI,HAI,Haiti,Republic of Haiti,Port-au-Prince,Americas,Caribbean,French,27750.0,11402533
+HT,HTI,HAI,Haiti,Republic of Haiti,Port-au-Prince,Americas,Caribbean,Haitian Creole,27750.0,11402533
+TV,TUV,TUV,Tuvalu,Tuvalu,Funafuti,Oceania,Polynesia,English,26.0,11792
+TV,TUV,TUV,Tuvalu,Tuvalu,Funafuti,Oceania,Polynesia,Tuvaluan,26.0,11792
+HN,HND,HON,Honduras,Republic of Honduras,Tegucigalpa,Americas,Central America,Spanish,112492.0,9904608
+GQ,GNQ,GEQ,Equatorial Guinea,Republic of Equatorial Guinea,Malabo,Africa,Middle Africa,French,28051.0,1402985
+GQ,GNQ,GEQ,Equatorial Guinea,Republic of Equatorial Guinea,Malabo,Africa,Middle Africa,Portuguese,28051.0,1402985
+GQ,GNQ,GEQ,Equatorial Guinea,Republic of Equatorial Guinea,Malabo,Africa,Middle Africa,Spanish,28051.0,1402985
+LC,LCA,LCA,Saint Lucia,Saint Lucia,Castries,Americas,Caribbean,English,616.0,183629
+PF,PYF,,French Polynesia,French Polynesia,Papeetē,Oceania,Polynesia,French,4167.0,280904
+BY,BLR,BLR,Belarus,Republic of Belarus,Minsk,Europe,Eastern Europe,Belarusian,207600.0,9398861
+BY,BLR,BLR,Belarus,Republic of Belarus,Minsk,Europe,Eastern Europe,Russian,207600.0,9398861
+LV,LVA,LAT,Latvia,Republic of Latvia,Riga,Europe,Northern Europe,Latvian,64559.0,1901548
+PW,PLW,PLW,Palau,Republic of Palau,Ngerulmud,Oceania,Micronesia,English,459.0,18092
+PW,PLW,PLW,Palau,Republic of Palau,Ngerulmud,Oceania,Micronesia,Palauan,459.0,18092
+GP,GLP,,Guadeloupe,Guadeloupe,Basse-Terre,Americas,Caribbean,French,1628.0,400132
+PH,PHL,PHI,Philippines,Republic of the Philippines,Manila,Asia,South-Eastern Asia,English,342353.0,109581085
+PH,PHL,PHI,Philippines,Republic of the Philippines,Manila,Asia,South-Eastern Asia,Filipino,342353.0,109581085
+GI,GIB,,Gibraltar,Gibraltar,Gibraltar,Europe,Southern Europe,English,6.0,33691
+DK,DNK,DEN,Denmark,Kingdom of Denmark,Copenhagen,Europe,Northern Europe,Danish,43094.0,5831404
+CM,CMR,CMR,Cameroon,Republic of Cameroon,Yaoundé,Africa,Middle Africa,English,475442.0,26545864
+CM,CMR,CMR,Cameroon,Republic of Cameroon,Yaoundé,Africa,Middle Africa,French,475442.0,26545864
+GN,GIN,GUI,Guinea,Republic of Guinea,Conakry,Africa,Western Africa,French,245857.0,13132792
+BH,BHR,BHR,Bahrain,Kingdom of Bahrain,Manama,Asia,Western Asia,Arabic,765.0,1701583
+SR,SUR,SUR,Suriname,Republic of Suriname,Paramaribo,Americas,South America,Dutch,163820.0,586634
+CD,COD,COD,DR Congo,Democratic Republic of the Congo,Kinshasa,Africa,Middle Africa,French,2344858.0,108407721
+CD,COD,COD,DR Congo,Democratic Republic of the Congo,Kinshasa,Africa,Middle Africa,Kikongo,2344858.0,108407721
+CD,COD,COD,DR Congo,Democratic Republic of the Congo,Kinshasa,Africa,Middle Africa,Lingala,2344858.0,108407721
+CD,COD,COD,DR Congo,Democratic Republic of the Congo,Kinshasa,Africa,Middle Africa,Tshiluba,2344858.0,108407721
+CD,COD,COD,DR Congo,Democratic Republic of the Congo,Kinshasa,Africa,Middle Africa,Swahili,2344858.0,108407721
+SO,SOM,SOM,Somalia,Federal Republic of Somalia,Mogadishu,Africa,Eastern Africa,Arabic,637657.0,15893219
+SO,SOM,SOM,Somalia,Federal Republic of Somalia,Mogadishu,Africa,Eastern Africa,Somali,637657.0,15893219
+CZ,CZE,CZE,Czechia,Czech Republic,Prague,Europe,Central Europe,Czech,78865.0,10698896
+CZ,CZE,CZE,Czechia,Czech Republic,Prague,Europe,Central Europe,Slovak,78865.0,10698896
+NC,NCL,,New Caledonia,New Caledonia,Nouméa,Oceania,Melanesia,French,18575.0,271960
+VU,VUT,VAN,Vanuatu,Republic of Vanuatu,Port Vila,Oceania,Melanesia,Bislama,12189.0,307150
+VU,VUT,VAN,Vanuatu,Republic of Vanuatu,Port Vila,Oceania,Melanesia,English,12189.0,307150
+VU,VUT,VAN,Vanuatu,Republic of Vanuatu,Port Vila,Oceania,Melanesia,French,12189.0,307150
+SH,SHN,,"Saint Helena, Ascension and Tristan da Cunha","Saint Helena, Ascension and Tristan da Cunha",Jamestown,Africa,Western Africa,English,394.0,53192
+TG,TGO,TOG,Togo,Togolese Republic,Lomé,Africa,Western Africa,French,56785.0,8278737
+VG,VGB,IVB,British Virgin Islands,Virgin Islands,Road Town,Americas,Caribbean,English,151.0,30237
+KE,KEN,KEN,Kenya,Republic of Kenya,Nairobi,Africa,Eastern Africa,English,580367.0,53771300
+KE,KEN,KEN,Kenya,Republic of Kenya,Nairobi,Africa,Eastern Africa,Swahili,580367.0,53771300
+NU,NIU,,Niue,Niue,Alofi,Oceania,Polynesia,English,260.0,1470
+NU,NIU,,Niue,Niue,Alofi,Oceania,Polynesia,Niuean,260.0,1470
+HM,HMD,,Heard Island and McDonald Islands,Heard Island and McDonald Islands,,Antarctic,,English,412.0,0
+RW,RWA,RWA,Rwanda,Republic of Rwanda,Kigali,Africa,Eastern Africa,English,26338.0,12952209
+RW,RWA,RWA,Rwanda,Republic of Rwanda,Kigali,Africa,Eastern Africa,French,26338.0,12952209
+RW,RWA,RWA,Rwanda,Republic of Rwanda,Kigali,Africa,Eastern Africa,Kinyarwanda,26338.0,12952209
+EE,EST,EST,Estonia,Republic of Estonia,Tallinn,Europe,Northern Europe,Estonian,45227.0,1331057
+RO,ROU,ROU,Romania,Romania,Bucharest,Europe,Southeast Europe,Romanian,238391.0,19286123
+TT,TTO,TTO,Trinidad and Tobago,Republic of Trinidad and Tobago,Port of Spain,Americas,Caribbean,English,5130.0,1399491
+GY,GUY,GUY,Guyana,Co-operative Republic of Guyana,Georgetown,Americas,South America,English,214969.0,786559
+TL,TLS,TLS,Timor-Leste,Democratic Republic of Timor-Leste,Dili,Asia,South-Eastern Asia,Portuguese,14874.0,1318442
+TL,TLS,TLS,Timor-Leste,Democratic Republic of Timor-Leste,Dili,Asia,South-Eastern Asia,Tetum,14874.0,1318442
+VN,VNM,VIE,Vietnam,Socialist Republic of Vietnam,Hanoi,Asia,South-Eastern Asia,Vietnamese,331212.0,97338583
+UY,URY,URU,Uruguay,Oriental Republic of Uruguay,Montevideo,Americas,South America,Spanish,181034.0,3473727
+VA,VAT,,Vatican City,Vatican City State,Vatican City,Europe,Southern Europe,Italian,0.44,451
+VA,VAT,,Vatican City,Vatican City State,Vatican City,Europe,Southern Europe,Latin,0.44,451
+HK,HKG,HKG,Hong Kong,Hong Kong Special Administrative Region of the People's Republic of China,City of Victoria,Asia,Eastern Asia,English,1104.0,7500700
+HK,HKG,HKG,Hong Kong,Hong Kong Special Administrative Region of the People's Republic of China,City of Victoria,Asia,Eastern Asia,Chinese,1104.0,7500700
+AT,AUT,AUT,Austria,Republic of Austria,Vienna,Europe,Central Europe,German,83871.0,8917205
+AG,ATG,ANT,Antigua and Barbuda,Antigua and Barbuda,Saint John's,Americas,Caribbean,English,442.0,97928
+TM,TKM,TKM,Turkmenistan,Turkmenistan,Ashgabat,Asia,Central Asia,Russian,488100.0,6031187
+TM,TKM,TKM,Turkmenistan,Turkmenistan,Ashgabat,Asia,Central Asia,Turkmen,488100.0,6031187
+MZ,MOZ,MOZ,Mozambique,Republic of Mozambique,Maputo,Africa,Eastern Africa,Portuguese,801590.0,31255435
+PA,PAN,PAN,Panama,Republic of Panama,Panama City,Americas,Central America,Spanish,75417.0,4314768
+FM,FSM,FSM,Micronesia,Federated States of Micronesia,Palikir,Oceania,Micronesia,English,702.0,115021
+IE,IRL,IRL,Ireland,Republic of Ireland,Dublin,Europe,Northern Europe,English,70273.0,4994724
+IE,IRL,IRL,Ireland,Republic of Ireland,Dublin,Europe,Northern Europe,Irish,70273.0,4994724
+CW,CUW,,Curaçao,Country of Curaçao,Willemstad,Americas,Caribbean,English,444.0,155014
+CW,CUW,,Curaçao,Country of Curaçao,Willemstad,Americas,Caribbean,Dutch,444.0,155014
+CW,CUW,,Curaçao,Country of Curaçao,Willemstad,Americas,Caribbean,Papiamento,444.0,155014
+GF,GUF,,French Guiana,Guiana,Cayenne,Americas,South America,French,83534.0,254541
+NO,NOR,NOR,Norway,Kingdom of Norway,Oslo,Europe,Northern Europe,Norwegian Nynorsk,323802.0,5379475
+NO,NOR,NOR,Norway,Kingdom of Norway,Oslo,Europe,Northern Europe,Norwegian Bokmål,323802.0,5379475
+NO,NOR,NOR,Norway,Kingdom of Norway,Oslo,Europe,Northern Europe,Sami,323802.0,5379475
+AX,ALA,,Åland Islands,Åland Islands,Mariehamn,Europe,Northern Europe,Swedish,1580.0,29458
+CF,CAF,CAF,Central African Republic,Central African Republic,Bangui,Africa,Middle Africa,French,622984.0,4829764
+CF,CAF,CAF,Central African Republic,Central African Republic,Bangui,Africa,Middle Africa,Sango,622984.0,4829764
+BF,BFA,BUR,Burkina Faso,Burkina Faso,Ouagadougou,Africa,Western Africa,French,272967.0,20903278
+ER,ERI,ERI,Eritrea,State of Eritrea,Asmara,Africa,Eastern Africa,Arabic,117600.0,5352000
+ER,ERI,ERI,Eritrea,State of Eritrea,Asmara,Africa,Eastern Africa,English,117600.0,5352000
+ER,ERI,ERI,Eritrea,State of Eritrea,Asmara,Africa,Eastern Africa,Tigrinya,117600.0,5352000
+TZ,TZA,TAN,Tanzania,United Republic of Tanzania,Dodoma,Africa,Eastern Africa,English,945087.0,59734213
+TZ,TZA,TAN,Tanzania,United Republic of Tanzania,Dodoma,Africa,Eastern Africa,Swahili,945087.0,59734213
+KR,KOR,KOR,South Korea,Republic of Korea,Seoul,Asia,Eastern Asia,Korean,100210.0,51780579
+JO,JOR,JOR,Jordan,Hashemite Kingdom of Jordan,Amman,Asia,Western Asia,Arabic,89342.0,10203140
+MR,MRT,MTN,Mauritania,Islamic Republic of Mauritania,Nouakchott,Africa,Western Africa,Arabic,1030700.0,4649660
+LT,LTU,LTU,Lithuania,Republic of Lithuania,Vilnius,Europe,Northern Europe,Lithuanian,65300.0,2794700
+UM,UMI,,United States Minor Outlying Islands,United States Minor Outlying Islands,Washington DC,Americas,North America,English,34.2,300
+SK,SVK,SVK,Slovakia,Slovak Republic,Bratislava,Europe,Central Europe,Slovak,49037.0,5458827
+AO,AGO,ANG,Angola,Republic of Angola,Luanda,Africa,Middle Africa,Portuguese,1246700.0,32866268
+KZ,KAZ,KAZ,Kazakhstan,Republic of Kazakhstan,Nur-Sultan,Asia,Central Asia,Kazakh,2724900.0,18754440
+KZ,KAZ,KAZ,Kazakhstan,Republic of Kazakhstan,Nur-Sultan,Asia,Central Asia,Russian,2724900.0,18754440
+MD,MDA,MDA,Moldova,Republic of Moldova,Chișinău,Europe,Eastern Europe,Romanian,33846.0,2617820
+ML,MLI,MLI,Mali,Republic of Mali,Bamako,Africa,Western Africa,French,1240192.0,20250834
+FK,FLK,,Falkland Islands,Falkland Islands,Stanley,Americas,South America,English,12173.0,2563
+AM,ARM,ARM,Armenia,Republic of Armenia,Yerevan,Asia,Western Asia,Armenian,29743.0,2963234
+WS,WSM,SAM,Samoa,Independent State of Samoa,Apia,Oceania,Polynesia,English,2842.0,198410
+WS,WSM,SAM,Samoa,Independent State of Samoa,Apia,Oceania,Polynesia,Samoan,2842.0,198410
+JE,JEY,,Jersey,Bailiwick of Jersey,Saint Helier,Europe,Northern Europe,English,116.0,100800
+JE,JEY,,Jersey,Bailiwick of Jersey,Saint Helier,Europe,Northern Europe,French,116.0,100800
+JE,JEY,,Jersey,Bailiwick of Jersey,Saint Helier,Europe,Northern Europe,Jèrriais,116.0,100800
+JP,JPN,JPN,Japan,Japan,Tokyo,Asia,Eastern Asia,Japanese,377930.0,125836021
+BO,BOL,BOL,Bolivia,Plurinational State of Bolivia,Sucre,Americas,South America,Aymara,1098581.0,11673029
+BO,BOL,BOL,Bolivia,Plurinational State of Bolivia,Sucre,Americas,South America,Guaraní,1098581.0,11673029
+BO,BOL,BOL,Bolivia,Plurinational State of Bolivia,Sucre,Americas,South America,Quechua,1098581.0,11673029
+BO,BOL,BOL,Bolivia,Plurinational State of Bolivia,Sucre,Americas,South America,Spanish,1098581.0,11673029
+CL,CHL,CHI,Chile,Republic of Chile,Santiago,Americas,South America,Spanish,756102.0,19116209
+US,USA,USA,United States,United States of America,"Washington, D.C.",Americas,North America,English,9372610.0,329484123
+VC,VCT,VIN,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,Kingstown,Americas,Caribbean,English,389.0,110947
+BM,BMU,BER,Bermuda,Bermuda,Hamilton,Americas,North America,English,54.0,63903
+SC,SYC,SEY,Seychelles,Republic of Seychelles,Victoria,Africa,Eastern Africa,Seychellois Creole,452.0,98462
+SC,SYC,SEY,Seychelles,Republic of Seychelles,Victoria,Africa,Eastern Africa,English,452.0,98462
+SC,SYC,SEY,Seychelles,Republic of Seychelles,Victoria,Africa,Eastern Africa,French,452.0,98462
+IO,IOT,,British Indian Ocean Territory,British Indian Ocean Territory,Diego Garcia,Africa,Eastern Africa,English,60.0,3000
+GT,GTM,GUA,Guatemala,Republic of Guatemala,Guatemala City,Americas,Central America,Spanish,108889.0,16858333
+EC,ECU,ECU,Ecuador,Republic of Ecuador,Quito,Americas,South America,Spanish,276841.0,17643060
+MQ,MTQ,,Martinique,Martinique,Fort-de-France,Americas,Caribbean,French,1128.0,378243
+TJ,TJK,TJK,Tajikistan,Republic of Tajikistan,Dushanbe,Asia,Central Asia,Russian,143100.0,9537642
+TJ,TJK,TJK,Tajikistan,Republic of Tajikistan,Dushanbe,Asia,Central Asia,Tajik,143100.0,9537642
+MT,MLT,MLT,Malta,Republic of Malta,Valletta,Europe,Southern Europe,English,316.0,525285
+MT,MLT,MLT,Malta,Republic of Malta,Valletta,Europe,Southern Europe,Maltese,316.0,525285
+GM,GMB,GAM,Gambia,Republic of the Gambia,Banjul,Africa,Western Africa,English,10689.0,2416664
+NG,NGA,NGR,Nigeria,Federal Republic of Nigeria,Abuja,Africa,Western Africa,English,923768.0,206139587
+BS,BHS,BAH,Bahamas,Commonwealth of the Bahamas,Nassau,Americas,Caribbean,English,13943.0,393248
+XK,UNK,KOS,Kosovo,Republic of Kosovo,Pristina,Europe,Southeast Europe,Albanian,10908.0,1775378
+XK,UNK,KOS,Kosovo,Republic of Kosovo,Pristina,Europe,Southeast Europe,Serbian,10908.0,1775378
+KW,KWT,KUW,Kuwait,State of Kuwait,Kuwait City,Asia,Western Asia,Arabic,17818.0,4270563
+MV,MDV,MDV,Maldives,Republic of the Maldives,Malé,Asia,Southern Asia,Maldivian,300.0,540542
+SS,SSD,SSD,South Sudan,Republic of South Sudan,Juba,Africa,Middle Africa,English,619745.0,11193729
+IR,IRN,IRI,Iran,Islamic Republic of Iran,Tehran,Asia,Southern Asia,Persian (Farsi),1648195.0,83992953
+AL,ALB,ALB,Albania,Republic of Albania,Tirana,Europe,Southeast Europe,Albanian,28748.0,2837743
+BR,BRA,BRA,Brazil,Federative Republic of Brazil,Brasília,Americas,South America,Portuguese,8515767.0,212559409
+RS,SRB,SRB,Serbia,Republic of Serbia,Belgrade,Europe,Southeast Europe,Serbian,88361.0,6908224
+BZ,BLZ,BIZ,Belize,Belize,Belmopan,Americas,Central America,Belizean Creole,22966.0,397621
+BZ,BLZ,BIZ,Belize,Belize,Belmopan,Americas,Central America,English,22966.0,397621
+BZ,BLZ,BIZ,Belize,Belize,Belmopan,Americas,Central America,Spanish,22966.0,397621
+MM,MMR,MYA,Myanmar,Republic of the Union of Myanmar,Naypyidaw,Asia,South-Eastern Asia,Burmese,676578.0,54409794
+BT,BTN,BHU,Bhutan,Kingdom of Bhutan,Thimphu,Asia,Southern Asia,Dzongkha,38394.0,771612
+VE,VEN,VEN,Venezuela,Bolivarian Republic of Venezuela,Caracas,Americas,South America,Spanish,916445.0,28435943
+LR,LBR,LBR,Liberia,Republic of Liberia,Monrovia,Africa,Western Africa,English,111369.0,5057677
+JM,JAM,JAM,Jamaica,Jamaica,Kingston,Americas,Caribbean,English,10991.0,2961161
+JM,JAM,JAM,Jamaica,Jamaica,Kingston,Americas,Caribbean,Jamaican Patois,10991.0,2961161
+PL,POL,POL,Poland,Republic of Poland,Warsaw,Europe,Central Europe,Polish,312679.0,37950802
+KY,CYM,CAY,Cayman Islands,Cayman Islands,George Town,Americas,Caribbean,English,264.0,65720
+BN,BRN,BRU,Brunei,"Nation of Brunei, Abode of Peace",Bandar Seri Begawan,Asia,South-Eastern Asia,Malay,5765.0,437483
+KM,COM,COM,Comoros,Union of the Comoros,Moroni,Africa,Eastern Africa,Arabic,1862.0,869595
+KM,COM,COM,Comoros,Union of the Comoros,Moroni,Africa,Eastern Africa,French,1862.0,869595
+KM,COM,COM,Comoros,Union of the Comoros,Moroni,Africa,Eastern Africa,Comorian,1862.0,869595
+GU,GUM,GUM,Guam,Guam,Hagåtña,Oceania,Micronesia,Chamorro,549.0,168783
+GU,GUM,GUM,Guam,Guam,Hagåtña,Oceania,Micronesia,English,549.0,168783
+GU,GUM,GUM,Guam,Guam,Hagåtña,Oceania,Micronesia,Spanish,549.0,168783
+TO,TON,TGA,Tonga,Kingdom of Tonga,Nuku'alofa,Oceania,Polynesia,English,747.0,105697
+TO,TON,TGA,Tonga,Kingdom of Tonga,Nuku'alofa,Oceania,Polynesia,Tongan,747.0,105697
+KI,KIR,KIR,Kiribati,Independent and Sovereign Republic of Kiribati,South Tarawa,Oceania,Micronesia,English,811.0,119446
+KI,KIR,KIR,Kiribati,Independent and Sovereign Republic of Kiribati,South Tarawa,Oceania,Micronesia,Gilbertese,811.0,119446
+GH,GHA,GHA,Ghana,Republic of Ghana,Accra,Africa,Western Africa,English,238533.0,31072945
+TD,TCD,CHA,Chad,Republic of Chad,N'Djamena,Africa,Middle Africa,Arabic,1284000.0,16425859
+TD,TCD,CHA,Chad,Republic of Chad,N'Djamena,Africa,Middle Africa,French,1284000.0,16425859
+ZW,ZWE,ZIM,Zimbabwe,Republic of Zimbabwe,Harare,Africa,Southern Africa,Chibarwe,390757.0,14862927
+ZW,ZWE,ZIM,Zimbabwe,Republic of Zimbabwe,Harare,Africa,Southern Africa,English,390757.0,14862927
+ZW,ZWE,ZIM,Zimbabwe,Republic of Zimbabwe,Harare,Africa,Southern Africa,Kalanga,390757.0,14862927
+ZW,ZWE,ZIM,Zimbabwe,Republic of Zimbabwe,Harare,Africa,Southern Africa,Khoisan,390757.0,14862927
+ZW,ZWE,ZIM,Zimbabwe,Republic of Zimbabwe,Harare,Africa,Southern Africa,Ndau,390757.0,14862927
+ZW,ZWE,ZIM,Zimbabwe,Republic of Zimbabwe,Harare,Africa,Southern Africa,Northern Ndebele,390757.0,14862927
+ZW,ZWE,ZIM,Zimbabwe,Republic of Zimbabwe,Harare,Africa,Southern Africa,Chewa,390757.0,14862927
+ZW,ZWE,ZIM,Zimbabwe,Republic of Zimbabwe,Harare,Africa,Southern Africa,Shona,390757.0,14862927
+ZW,ZWE,ZIM,Zimbabwe,Republic of Zimbabwe,Harare,Africa,Southern Africa,Sotho,390757.0,14862927
+ZW,ZWE,ZIM,Zimbabwe,Republic of Zimbabwe,Harare,Africa,Southern Africa,Tonga,390757.0,14862927
+ZW,ZWE,ZIM,Zimbabwe,Republic of Zimbabwe,Harare,Africa,Southern Africa,Tswana,390757.0,14862927
+ZW,ZWE,ZIM,Zimbabwe,Republic of Zimbabwe,Harare,Africa,Southern Africa,Tsonga,390757.0,14862927
+ZW,ZWE,ZIM,Zimbabwe,Republic of Zimbabwe,Harare,Africa,Southern Africa,Venda,390757.0,14862927
+ZW,ZWE,ZIM,Zimbabwe,Republic of Zimbabwe,Harare,Africa,Southern Africa,Xhosa,390757.0,14862927
+ZW,ZWE,ZIM,Zimbabwe,Republic of Zimbabwe,Harare,Africa,Southern Africa,Zimbabwean Sign Language,390757.0,14862927
+MF,MAF,,Saint Martin,Saint Martin,Marigot,Americas,Caribbean,French,53.0,38659
+MN,MNG,MGL,Mongolia,Mongolia,Ulan Bator,Asia,Eastern Asia,Mongolian,1564110.0,3278292
+PT,PRT,POR,Portugal,Portuguese Republic,Lisbon,Europe,Southern Europe,Portuguese,92090.0,10305564
+AS,ASM,ASA,American Samoa,American Samoa,Pago Pago,Oceania,Polynesia,English,199.0,55197
+AS,ASM,ASA,American Samoa,American Samoa,Pago Pago,Oceania,Polynesia,Samoan,199.0,55197
+CG,COG,CGO,Republic of the Congo,Republic of the Congo,Brazzaville,Africa,Middle Africa,French,342000.0,5657000
+CG,COG,CGO,Republic of the Congo,Republic of the Congo,Brazzaville,Africa,Middle Africa,Kikongo,342000.0,5657000
+CG,COG,CGO,Republic of the Congo,Republic of the Congo,Brazzaville,Africa,Middle Africa,Lingala,342000.0,5657000
+BE,BEL,BEL,Belgium,Kingdom of Belgium,Brussels,Europe,Western Europe,German,30528.0,11555997
+BE,BEL,BEL,Belgium,Kingdom of Belgium,Brussels,Europe,Western Europe,French,30528.0,11555997
+BE,BEL,BEL,Belgium,Kingdom of Belgium,Brussels,Europe,Western Europe,Dutch,30528.0,11555997
+IL,ISR,ISR,Israel,State of Israel,Jerusalem,Asia,Western Asia,Arabic,20770.0,9216900
+IL,ISR,ISR,Israel,State of Israel,Jerusalem,Asia,Western Asia,Hebrew,20770.0,9216900
+NZ,NZL,NZL,New Zealand,New Zealand,Wellington,Oceania,Australia and New Zealand,English,270467.0,5084300
+NZ,NZL,NZL,New Zealand,New Zealand,Wellington,Oceania,Australia and New Zealand,Māori,270467.0,5084300
+NZ,NZL,NZL,New Zealand,New Zealand,Wellington,Oceania,Australia and New Zealand,New Zealand Sign Language,270467.0,5084300
+NI,NIC,NCA,Nicaragua,Republic of Nicaragua,Managua,Americas,Central America,Spanish,130373.0,6624554
+AI,AIA,,Anguilla,Anguilla,The Valley,Americas,Caribbean,English,91.0,13452
