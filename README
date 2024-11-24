@@ -1,0 +1,15 @@
+## Описание проекта
+Этот проект включает обработку данных Excel и взаимодействие с API для получения данных о странах.
+Основные задачи:
+- Анализ данных из Excel-файла excel_task_xlsx (`analyze_excel_data.py`) (без задания для формул в Excel)
+- Работа с API стран (`task_api_countries.py`)
+- Хранение данных о странах и языках в формате CSV согласно заданию (countries_data_with_languages.csv)
+
+## Структура проекта
+- analyze_excel_data.py: Скрипт для анализа данных в файле `excel_task.xlsx`.
+- countries_data_with_languages.csv: CSV-файл, содержащий данные о странах и их языках.
+- excel_task.xlsx: Excel-файл с данными для анализа.
+- requirements.txt: Список зависимостей проекта.
+- task_api_countries.py: Скрипт для получения данных о странах через API.
+- .venv: Виртуальная среда для изоляции зависимостей.
+
